@@ -2,7 +2,9 @@
 
 ## 📌 Projenin Amacı
 Bu projenin temel amacı, **akciğer ve kolon kanseri histopatolojik görüntülerini derin öğrenme yöntemleriyle sınıflandırmak** ve tıbbi görüntü analizi alanında yapay zekâ tabanlı bir karar destek sistemi oluşturmaktır.  
-Çalışmanın hedefi, kanser teşhisinde doğruluk oranını artırmak, erken tanıya katkıda bulunmak ve sağlık alanında derin öğrenmenin gücünü ortaya koymaktır.  
+Çalışmanın hedefi, kanser teşhisinde doğruluk oranını artırmak, erken tanıya katkıda bulunmak ve sağlık alanında derin öğrenmenin gücünü ortaya koymaktır. 
+
+Kaggle Notebook Çalışma: https://www.kaggle.com/code/nisaztrkk/lung-and-colon-cancer-akbank-deep-learning
 
 ## 📂 Veri Seti
 - **Kaynak:** [Kaggle – Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)  
